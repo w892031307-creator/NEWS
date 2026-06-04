@@ -17,7 +17,7 @@
 | --- | --- | --- |
 | `SMTP_HOST` | `smtp.qq.com` | SMTP 服务器 |
 | `SMTP_PORT` | `465` | SMTP SSL 端口 |
-| `SMTP_USERNAME` | `892031307@qq.com` | 发件邮箱账号 |
+| `SMTP_USERNAME` | `your-email@qq.com` | 发件邮箱账号 |
 | `SMTP_PASSWORD` | QQ 邮箱授权码 | 不是 QQ 登录密码 |
 | `MAIL_TO` | `your-email@qq.com` | 收件人 |
 | `MAIL_FROM` | `your-email@qq.com` | 发件人，可与账号相同 |
