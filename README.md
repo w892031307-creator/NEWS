@@ -19,8 +19,8 @@
 | `SMTP_PORT` | `465` | SMTP SSL 端口 |
 | `SMTP_USERNAME` | `892031307@qq.com` | 发件邮箱账号 |
 | `SMTP_PASSWORD` | QQ 邮箱授权码 | 不是 QQ 登录密码 |
-| `MAIL_TO` | `892031307@qq.com` | 收件人 |
-| `MAIL_FROM` | `892031307@qq.com` | 发件人，可与账号相同 |
+| `MAIL_TO` | `your-email@qq.com` | 收件人 |
+| `MAIL_FROM` | `your-email@qq.com` | 发件人，可与账号相同 |
 
 QQ 邮箱通常需要先开启 SMTP 服务，并使用“授权码”作为 `SMTP_PASSWORD`。
 
